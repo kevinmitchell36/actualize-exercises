@@ -6,3 +6,4 @@ puts 5
 puts 6
 puts 7
 puts 8
+puts 9
